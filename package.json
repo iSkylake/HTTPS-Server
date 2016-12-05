@@ -1,0 +1,25 @@
+{
+  "name": "https-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iSkylake/HTTPS-Server.git"
+  },
+  "author": "Llorch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iSkylake/HTTPS-Server/issues"
+  },
+  "homepage": "https://github.com/iSkylake/HTTPS-Server#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "tls": "0.0.1"
+  }
+}
